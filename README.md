@@ -1,7 +1,7 @@
 ## Pascal Program: tp2
 
 This Is my Pascal solution for the TP given at ESI SBA designed to manage a university's organizational structure, including faculties, departments, specializations, and students using linked lists to represent the hierarchical relationships between these entities.
--NB: i share this program with the first year student so i can help them getting an idea on the overall logic of the solution, i don't encourage to copy paste this code and present it to the professor, you will be the only loser here.
+**NB: i share this program with the first year student so i can help them getting an idea on the overall logic of the solution, i don't encourage to copy paste this code and present it to the professor, you will be the only loser here.
 ## Program Structure
 
 Main Program: The main program begins by prompting the user to input the name of the university. It then provides a menu-driven interface for various operations such as creating faculties, departments, specializations, adding students, searching for entities, displaying lists, and deleting entities.
